@@ -1,7 +1,7 @@
-// get reference to element containing toppings checkboxes
+// get reference to element containing shopping list checkboxes
 var el = document.getElementById('checking');
 
-// get reference to input elements in toppings container element
+// get reference to input elements in unordered list container element
 var list = el.getElementsByTagName('input');
 
 // assign function to onclick property of each checkbox
