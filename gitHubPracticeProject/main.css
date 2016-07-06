@@ -16,3 +16,7 @@ ul {
   color:blue;
   list-style:none;
 }
+
+.lineThrough {
+  text-decoration: line-through;
+}
